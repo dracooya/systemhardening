@@ -1,4 +1,4 @@
-const { createServer } = require('node:http');
+const { createServer } = require('http');
 const express = require('express');
 
 const hostname = '127.0.0.1';
